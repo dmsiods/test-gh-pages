@@ -1,1 +1,1 @@
-# test-gh-pages
+https://dmsiods.github.io/test-gh-pages/page
